@@ -9,11 +9,11 @@ public class HelloWorld {
 		int b=Integer.parseInt(args[1]);
 		System.out.println("Addition :"+args[0]+args[1]);
 		int s=(a-b);
-		System.out.println("Addition :"+s);
+		System.out.println("Subtraction :"+s);
 		int M=(a*b);
-		System.out.println("Addition :"+M);
+		System.out.println("Multiplication :"+M);
 		int d=(a/b);
-		System.out.println("Addition :"+d);
+		System.out.println("Division :"+d);
 	}
 
 }
